@@ -54,12 +54,12 @@ SQL (SQLite) · Power BI · Excel · DAX · RFM Analysis
 
 ### 运营分析总览
 images/dashboard_overview.png
-![Uploading f1b32e4ed456956f23fede007c74d2ad.png…]()
+<img width="1687" height="947" alt="f1b32e4ed456956f23fede007c74d2ad" src="https://github.com/user-attachments/assets/9ee919a2-d238-45ca-876e-0d2dfa294a16" />
 
 
 ### 用户价值分析
 images/rfm_analysis.png
-![Uploading 2b4cd096a48451feafe701dcf6323616.png…]()
+<img width="1686" height="950" alt="2b4cd096a48451feafe701dcf6323616" src="https://github.com/user-attachments/assets/894d3594-c112-450f-8641-b8de98ca0a4e" />
 
 
 ### 数据质量验证
@@ -71,4 +71,4 @@ images/data_validation.png
 
 📄 项目总结：report/Project_Summary.pdf
 
-👤 陈碧云 | Data Analysis · Data Operation · Business Intelligence<img width="1687" height="947" alt="f1b32e4ed456956f23fede007c74d2ad" src="https://github.com/user-attachments/assets/25b1543c-a954-4970-99a7-d07a63d1186b" />
+👤 陈碧云 | Data Analysis · Data Operation · Business Intelligence
