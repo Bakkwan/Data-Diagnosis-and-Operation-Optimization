@@ -54,16 +54,16 @@ SQL (SQLite) · Power BI · Excel · DAX · RFM Analysis
 ## Dashboard Preview
 
 ### 运营分析总览
-images/dashboard_overview.png
+![dashboard_overview](images/dashboard_overview.png)
 
 ### 用户价值分析
-images/rfm_analysis.png
+![dashboard_overview](images/rfm_analysis.png)
 
 ### 数据质量验证
-images/data_validation.png
+![dashboard_overview](images/data_validation.png)
 
 ---
 
-📄 项目总结：report/Project_Summary.pdf
+📄 项目总结：[点击查看完整PDF报告](<report/Project Summary.pdf>)
 
 👤 陈碧云 | Data Analysis · Data Operation · Business Intelligence
