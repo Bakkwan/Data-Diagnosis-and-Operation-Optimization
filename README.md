@@ -1,7 +1,3 @@
-<img width="1687" height="947" alt="f1b32e4ed456956f23fede007c74d2ad" src="https://github.com/user-attachments/assets/9d068131-00a6-43ae-892c-dc1ffdb47a74" />
-<img width="1686" height="950" alt="2b4cd096a48451feafe701dcf6323616" src="https://github.com/user-attachments/assets/dced43cf-0b0b-40b1-a57c-ec0d8a93b115" />
-<img width="1691" height="951" alt="b6724aebced0943b4d7f1a51ea3a18a9" src="https://github.com/user-attachments/assets/8ebd29f1-f300-4ac3-97e0-78a248a4e511" />
-
 # 数据诊断与运营优化分析项目
 ### Data Diagnosis and Operation Optimization
 
@@ -22,14 +18,20 @@ SQL (SQLite) · Power BI · Excel · DAX · RFM Analysis
 📦 **运营效率影响用户体验**
 
 履约时效与客户满意度呈明显关联，延迟超过 7 天订单评分显著下降，配送时效是影响用户体验的重要因素。
+<img width="1930" height="1087" alt="79252e44642242415307abb51108776a" src="https://github.com/user-attachments/assets/aa0bdbaf-b2ef-49ab-b85a-247cca10b8d4" />
+
 
 👥 **用户价值贡献高度集中**
 
 高价值用户贡献近一半业务收入，是业务增长与用户运营的核心群体。
+<img width="1686" height="950" alt="2b4cd096a48451feafe701dcf6323616" src="https://github.com/user-attachments/assets/281e76c5-7fb6-44a7-abb8-8a7538058fc1" />
+
 
 🔍 **数据验证保障分析可靠性**
 
 对 1388 个区域-品类组合开展异常数据核验，发现部分异常来源于样本不足，避免极端样本导致经营判断偏差。
+<img width="1691" height="951" alt="b6724aebced0943b4d7f1a51ea3a18a9" src="https://github.com/user-attachments/assets/67f1c51d-9633-47df-aa9c-8c92b0b2d7b2" />
+
 
 ---
 
@@ -54,14 +56,11 @@ SQL (SQLite) · Power BI · Excel · DAX · RFM Analysis
 ### 运营分析总览
 images/dashboard_overview.png
 
-
 ### 用户价值分析
 images/rfm_analysis.png
 
-
 ### 数据质量验证
 images/data_validation.png
-
 
 ---
 
