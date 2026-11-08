@@ -1,7 +1,6 @@
 <img width="1687" height="947" alt="f1b32e4ed456956f23fede007c74d2ad" src="https://github.com/user-attachments/assets/9d068131-00a6-43ae-892c-dc1ffdb47a74" />
-<img width="1691" height="951" alt="b6724aebced0943b4d7f1a51ea3a18a9" src="https://github.com/user-attachments/assets/8ebd29f1-f300-4ac3-97e0-78a248a4e511" />
 <img width="1686" height="950" alt="2b4cd096a48451feafe701dcf6323616" src="https://github.com/user-attachments/assets/dced43cf-0b0b-40b1-a57c-ec0d8a93b115" />
-
+<img width="1691" height="951" alt="b6724aebced0943b4d7f1a51ea3a18a9" src="https://github.com/user-attachments/assets/8ebd29f1-f300-4ac3-97e0-78a248a4e511" />
 
 # 数据诊断与运营优化分析项目
 ### Data Diagnosis and Operation Optimization
