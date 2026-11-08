@@ -1,147 +1,74 @@
-# Data Diagnosis and Operation Optimization
+<img width="1687" height="947" alt="f1b32e4ed456956f23fede007c74d2ad" src="https://github.com/user-attachments/assets/9d068131-00a6-43ae-892c-dc1ffdb47a74" />
+<img width="1691" height="951" alt="b6724aebced0943b4d7f1a51ea3a18a9" src="https://github.com/user-attachments/assets/8ebd29f1-f300-4ac3-97e0-78a248a4e511" />
+<img width="1686" height="950" alt="2b4cd096a48451feafe701dcf6323616" src="https://github.com/user-attachments/assets/dced43cf-0b0b-40b1-a57c-ec0d8a93b115" />
 
-## Project Overview
 
-This project analyzes 96,478 business records using SQL and Power BI to identify operational issues, evaluate customer value, and validate data quality.
+# 数据诊断与运营优化分析项目
+### Data Diagnosis and Operation Optimization
 
-The objective is to transform raw business data into actionable insights through data diagnosis and operational analysis.
+基于 96,478 条业务数据，使用 SQL 与 Power BI 对运营效率、用户价值及数据质量进行分析诊断，识别影响业务表现的关键因素，并提出优化建议。
 
----
-
-## Project Objectives
-
-- Diagnose factors affecting customer satisfaction
-- Evaluate operational efficiency
-- Identify high-value customer groups
-- Validate abnormal data and improve analysis reliability
-- Provide optimization recommendations based on data findings
+Analyzed 96,478 business records using SQL and Power BI to identify operational issues, customer value opportunities and data quality risks.
 
 ---
 
-## Dataset Overview
+## 技术栈 | Tech Stack
 
-| Metric | Value |
-|----------|----------|
-| Customers | 93,358 |
-| Orders | 96,478 |
-| GMV | 13.22M |
-| Average Order Value | 137.04 |
+SQL (SQLite) · Power BI · Excel · DAX · RFM Analysis
 
 ---
 
-## Analysis Framework
+## 核心发现 | Key Findings
 
-### 1. Operational Efficiency Diagnosis
+📦 **运营效率影响用户体验**
 
-Analyze the relationship between delivery performance and customer satisfaction.
+履约时效与客户满意度呈明显关联，延迟超过 7 天订单评分显著下降，配送时效是影响用户体验的重要因素。
 
-**Finding**
+👥 **用户价值贡献高度集中**
 
-- Orders delayed more than 7 days received an average rating of 1.70.
-- On-time orders received an average rating of 4.29.
-- Delivery delay was identified as a major factor affecting customer experience.
+高价值用户贡献近一半业务收入，是业务增长与用户运营的核心群体。
 
-**Recommendation**
+🔍 **数据验证保障分析可靠性**
 
-- Establish delivery warning thresholds.
-- Trigger customer service intervention for high-risk delayed orders.
+对 1388 个区域-品类组合开展异常数据核验，发现部分异常来源于样本不足，避免极端样本导致经营判断偏差。
 
 ---
 
-### 2. Customer Value Analysis
+## 项目成果 | Project Outcomes
 
-RFM model was applied to segment customers based on recency, frequency and monetary value.
+✅ 完成 SQL 数据清洗与指标分析
 
-**Finding**
+✅ 构建 RFM 用户价值分层模型
 
-- 25.2% high-value customers contributed 49.9% of total revenue.
-- Average spending of high-value customers was 5.7 times higher than low-value customers.
+✅ 开展运营效率与满意度关联分析
 
-**Recommendation**
+✅ 完成异常数据验证与质量检查
 
-- Strengthen retention strategies for high-value customers.
-- Improve conversion of potential customers through targeted campaigns.
+✅ 搭建 Power BI 运营分析看板
 
----
-
-### 3. Data Quality Validation
-
-During analysis, several abnormal rating results were detected.
-
-**Validation Process**
-
-- Verify sample completeness.
-- Investigate extreme values.
-- Check sample size sufficiency.
-
-**Finding**
-
-Most abnormal results were caused by insufficient sample size instead of actual business issues.
-
-**Outcome**
-
-Potential misjudgments were avoided through data validation procedures.
-
----
-
-### 4. Dashboard Development
-
-Power BI dashboard was built for:
-
-- KPI monitoring
-- Operational diagnosis
-- Customer segmentation
-- Regional and category analysis
-
----
-
-## Key Insights
-
-### Customer Satisfaction
-
-Delivery delay significantly reduces customer ratings.
-
-### Customer Value
-
-A small portion of customers contributes nearly half of total revenue.
-
-### Data Reliability
-
-Data validation is essential before drawing business conclusions.
-
----
-
-## Tech Stack
-
-- SQL (SQLite)
-- Power BI
-- Excel
-- Data Cleaning
-- RFM Analysis
-- Business Diagnosis
+✅ 输出业务优化建议
 
 ---
 
 ## Dashboard Preview
 
+### 运营分析总览
 images/dashboard_overview.png
+![Uploading f1b32e4ed456956f23fede007c74d2ad.png…]()
+
+
+### 用户价值分析
+images/rfm_analysis.png
+![Uploading 2b4cd096a48451feafe701dcf6323616.png…]()
+
+
+### 数据质量验证
+images/data_validation.png
+<img width="1691" height="951" alt="b6724aebced0943b4d7f1a51ea3a18a9" src="https://github.com/user-attachments/assets/6d3c7af9-71f6-4203-a41a-21d166ed89b1" />
+
 
 ---
 
-## Repository Structure
+📄 项目总结：report/Project_Summary.pdf
 
-```text
-Data-Diagnosis-and-Operation-Optimization
-
-├── README.md
-├── dashboard
-│   └── Operation_Dashboard.pbix
-
-├── report
-│   └── Project_Summary.pdf
-
-├── sql
-│   └── analysis.sql
-
-├── images
-│   └── dashboard_overview.png
+👤 陈碧云 | Data Analysis · Data Operation · Business Intelligence<img width="1687" height="947" alt="f1b32e4ed456956f23fede007c74d2ad" src="https://github.com/user-attachments/assets/25b1543c-a954-4970-99a7-d07a63d1186b" />
