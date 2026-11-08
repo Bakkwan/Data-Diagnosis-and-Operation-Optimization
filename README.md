@@ -54,17 +54,14 @@ SQL (SQLite) · Power BI · Excel · DAX · RFM Analysis
 
 ### 运营分析总览
 images/dashboard_overview.png
-<img width="1687" height="947" alt="f1b32e4ed456956f23fede007c74d2ad" src="https://github.com/user-attachments/assets/9ee919a2-d238-45ca-876e-0d2dfa294a16" />
 
 
 ### 用户价值分析
 images/rfm_analysis.png
-<img width="1686" height="950" alt="2b4cd096a48451feafe701dcf6323616" src="https://github.com/user-attachments/assets/894d3594-c112-450f-8641-b8de98ca0a4e" />
 
 
 ### 数据质量验证
 images/data_validation.png
-<img width="1691" height="951" alt="b6724aebced0943b4d7f1a51ea3a18a9" src="https://github.com/user-attachments/assets/6d3c7af9-71f6-4203-a41a-21d166ed89b1" />
 
 
 ---
