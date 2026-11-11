@@ -9,7 +9,7 @@ Analyzed 96,478 business records using SQL and Power BI to identify operational 
 
 ## 技术栈 | Tech Stack
 
-SQL (SQLite) · Power BI · Excel · DAX · RFM Analysis
+SQL · Power BI · Excel · DAX · RFM Analysis
 
 ---
 
